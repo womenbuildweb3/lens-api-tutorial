@@ -7,7 +7,7 @@ import { ethers } from "ethers";
 import Layout from "../../components/Layout";
 import Head from "next/head";
 
-const CONTRACT_ADDRESS = "0x8C1f82e8AAD9399f52DcF224b77f33d5c1719241";
+const CONTRACT_ADDRESS = "0x60Ae865ee4C725cd04353b5AAb364553f56ceF82";
 
 export default function Profile() {
   const [profile, setProfile] = useState();
